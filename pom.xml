@@ -64,7 +64,7 @@
   <version>1.8.0</version>
   <configuration>
     <to>
-      <image>hub.docker.com/repository/docker/aashika68/jib_image</image>
+      <image>docker.io/aashika68/jib_image</image>
     </to>
   </configuration>
 </plugin>
